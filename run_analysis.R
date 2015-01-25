@@ -49,4 +49,4 @@ tidyResult$Activity <- factor(tidyResult$Activity, activity_labels$levels, activ
 averagedTideyResult <- tidyResult[, lapply(.SD, mean), by=list(Subject, Activity)][order(Subject,Activity)]
 
 # save tidy results to file 
-write.table(averagedTideyResult, "tidy_dataset.txt", row.name=FALSE)
+write.table(averagedTideyResult, "../tidy_dataset.txt", row.name=FALSE)
