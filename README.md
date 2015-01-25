@@ -1,5 +1,5 @@
 ## What is in the repository  
-This replository contains R code to clean up raw data from the [Human Activity Recognition Using Smartphones Data Set ](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Using this code data will be subseted, cleaned  and transformed to tidy data format. Cleaned data supposed to be used for later analysis. 
+This repository contains R code to clean up raw data from the [Human Activity Recognition Using Smartphones Data Set ](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Using this code data will be subseted, cleaned  and transformed to tidy data format. Cleaned data supposed to be used for later analysis. 
 
 ## How data clean up is performed  
 
