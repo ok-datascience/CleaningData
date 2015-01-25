@@ -11,8 +11,9 @@
     * 5 STANDING
     * 6 LAYING
 
-* #####timeBodyAccStdDevX  8 Avarage value of standard deviation of time body acceleration signal by axe X (unitless)
-* #####timeBodyAccStdDevY  8  
+* #####timeBodyAccStdDevX  8 
+  Avarage value of standard deviation of time body acceleration signal by axe X (unitless)
+* #####timeBodyAccStdDevY  8 
   Avarage value of standard deviation of time body acceleration signal by axe  Y (unitless)
 * #####timeBodyAccStdDevZ  8 Avarage value of standard deviation of time body acceleration signal by axe  Z (unitless)
 * #####timeGravityAccStdDevX
