@@ -1,8 +1,8 @@
 # Data Dictionary - Tidy Human Activity Recognition Using Smartphones 
-* #####Subject 2  
-   Identifies person within a group of 30 volunteer  within an age bracket of 19-48 years
+* *Subject*    
+   Identifies person within a group of 30 volunteer  within an age bracket of 19-4** years
   
-* #####Activity 1 
+* *Activity*   
   Subject activity type  
     * 1 WALKING  
     * 2 WALKING_UPSTAIRS
@@ -11,134 +11,134 @@
     * 5 STANDING
     * 6 LAYING
 
-* #####timeBodyAccStdDevX  8 
+* *timeBodyAccStdDevX* 
   Avarage value of standard deviation of time body acceleration signal by axe X (unitless)
-* ####timeBodyAccStdDevY  8   
+* ####timeBodyAccStdDevY**   
   Avarage value of standard deviation of time body acceleration signal by axe  Y (unitless)
-* #####timeBodyAccStdDevZ  8 Avarage value of standard deviation of time body acceleration signal by axe  Z (unitless)
-* #####timeGravityAccStdDevX
-  8 Avarage value of standard deviation of time gravity acceleration signal by axe X (unitless)
-* #####timeGravityAccStdDevY
- 8 Avarage value of standard deviation of time gravity acceleration signal by axe Y (unitless)
-* #####timeGravityAccStdDevZ
- 8 Avarage value of standard deviation of time gravity acceleration signal by axe Z (unitless)
-* #####timeBodyAccJerkStdDevX
- 8 Avarage value of standard deviation of time body acceleration jerk signal by axe X (unitless)
-* #####timeBodyAccJerkStdDevY
- 8 Avarage value of standard deviation of time body acceleration jerk signal by axe Y (unitless)
-* #####timeBodyAccJerkStdDevZ
- 8 Avarage value of standard deviation of time body acceleration jerk signal by axe Z (unitless)
-* #####timeBodyGyroStdDevX
- 8 Avarage value of standard deviation of time body gyroscope signal by axe X (unitless)
-* #####timeBodyGyroStdDevY
- 8 Avarage value of standard deviation of time body gyroscope signal by axe Y (unitless)
-* #####timeBodyGyroStdDevZ
- 8 Avarage value of standard deviation of time body gyroscope signal by axe Z (unitless)
-* #####timeBodyGyroJerkStdDevX
- 8 Avarage value of standard deviation of time body gyroscope jerk signal by axe X (unitless)
-* #####timeBodyGyroJerkStdDevY
- 8 Avarage value of standard deviation of time body gyroscope jerk signal by axe Y (unitless)
-* #####timeBodyGyroJerkStdDevZ
- 8 Avarage value of standard deviation of time body gyroscope jerk signal by axe Z (unitless)
-* #####timeBodyAccMagStdDev
- 8 Avarage value of standard deviation of time body acceleration magnitude signal (unitless)
-* #####timeGravityAccMagStdDev
- 8 Avarage value of standard deviation of time gravity acceleration magnitude signal (unitless)
-* #####timeBodyAccJerkMagStdDev
- 8 Avarage value of standard deviation of time body acceleration jerk magnitude signal (unitless)
-* #####timeBodyGyroMagStdDev
- 8 Avarage value of standard deviation of time body gyroscope magnitude signal (unitless)
-* #####timeBodyGyroJerkMagStdDev
- 8 Avarage value of standard deviation of time body gyroscope jerk magnitude signal (unitless)
-* #####freqBodyAccStdDevX
- 8 Avarage value of standard deviation of the frequency body accelerations signal by axe X (unitless)
-* #####freqBodyAccStdDevY
- 8 Avarage value of standard deviation of the frequency body acceleration signal by axe Y (unitless)
-* #####freqBodyAccStdDevZ
- 8 Avarage value of standard deviation of the frequency body acceleration signal by axe Z (unitless)
-* #####freqBodyAccJerkStdDevX
- 8 Avarage value of standard deviation of the frequency body acceleration jerk signal by axe X (unitless)
-* #####freqBodyAccJerkStdDevY
- 8 Avarage value of standard deviation of the frequency body acceleration jerk signal by axe Y (unitless)
-* #####freqBodyAccJerkStdDevZ
- 8 Avarage value of standard deviation of the frequency body acceleration jerk signal by axe Z (unitless)
-* #####freqBodyGyroStdDevX
- 8 Avarage value of standard deviation of the frequency body gyroscope signal by axe X (unitless)
-* #####freqBodyGyroStdDevY
- 8 Avarage value of standard deviation of the frequency body gyroscope signal by axe Y (unitless)
-* #####freqBodyGyroStdDevZ
- 8 Avarage value of standard deviation of the frequency body gyroscope signal by axe Z (unitless)
-* #####freqBodyAccMagStdDev
- 8 Avarage value of standard deviation of the frequency body acceleration magnitude signal (unitless)
-* #####freqBodyBodyAccJerkMagStdDev
- 8 Avarage value of standard deviation of the frequency body acceleration jerk magnitude signal (unitless)
-* #####freqBodyBodyGyroMagStdDev
- 8 Avarage value of standard deviation of the frequency body gyroscope magnitude signal (unitless)
-* #####freqBodyBodyGyroJerkMagStdDev
- 8 Avarage value of standard deviation of the frequency body gyroscope jerk magnitude signal (unitless)
-* #####timeBodyAccMeanX
- 8 Avarage value of the mean values of time body acceleration signal by axe X (unitless)
-* #####timeBodyAccMeanY
- 8 Avarage value of the mean values of time body acceleration signal by axe Y (unitless)
-* #####timeBodyAccMeanZ
- 8 Avarage value of the mean values of time body acceleration signal by axe Z (unitless)
-* #####timeGravityAccMeanX
- 8 Avarage value of the mean values of time gravity acceleration signal by axe X (unitless)
-* #####timeGravityAccMeanY
- 8 Avarage value of the mean values of time gravity acceleration signal by axe Y (unitless)
-* #####timeGravityAccMeanZ
- 8 Avarage value of the mean values of time gravity acceleration signal by axe Z (unitless)
-* #####timeBodyAccJerkMeanX
- 8 Avarage value of the mean values of time body acceleration jerk signal by axe X (unitless)
-* #####timeBodyAccJerkMeanY
- 8 Avarage value of the mean values of time body acceleration jerk signal by axe Y (unitless)
-* #####timeBodyAccJerkMeanZ
- 8 Avarage value of the mean values of time body acceleration jerk signal by axe Z (unitless)
-* #####timeBodyGyroMeanX
- 8 Avarage value of the mean values of time body gyroscope signal by axe X (unitless)
-* #####timeBodyGyroMeanY
- 8 Avarage value of the mean values of time body gyroscope signal by axe Y (unitless)
-* #####timeBodyGyroMeanZ
- 8 Avarage value of the mean values of time body gyroscope signal by axe Z (unitless)
-* #####timeBodyGyroJerkMeanX
- 8 Avarage value of the mean values of time body gyroscope jerk signal by axe X (unitless)
-* #####timeBodyGyroJerkMeanY
- 8 Avarage value of the mean values of time body gyroscope jerk signal by axe Y (unitless)
-* #####timeBodyGyroJerkMeanZ
- 8 Avarage value of the mean values of time body gyroscope jerk signal by axe Z (unitless)
-* #####timeBodyAccMagMean
- 8 Avarage value of the mean values of time body acceleration magnitude signal (unitless)
-* #####timeGravityAccMagMean
- 8 Avarage value of the mean values of time gravity acceleration magnitude signal (unitless)
-* #####timeBodyAccJerkMagMean
- 8 Avarage value of the mean values of time body acceleration jerk signal (unitless)
-* #####timeBodyGyroMagMean
- 8 Avarage value of the mean values of time body gyroscope magnitude signal (unitless)
-* #####timeBodyGyroJerkMagMean
- 8 Avarage value of the mean values of time body gyroscope jerk magnitude signal (unitless)
-* #####freqBodyAccMeanX
- 8 Avarage value of the mean values of frequency body acceleration signal by axe X (unitless)
-* #####freqBodyAccMeanY
- 8 Avarage value of the mean values of frequency body acceleration signal by axe Y (unitless)
-* #####freqBodyAccMeanZ
- 8 Avarage value of the mean values of frequency body acceleration signal by axe Z (unitless)
-* #####freqBodyAccJerkMeanX
- 8 Avarage value of the mean values of frequency body acceleration jerk signal by axe X (unitless)
-* #####freqBodyAccJerkMeanY
- 8 Avarage value of the mean values of frequency body acceleration jerk signal by axe Y (unitless)
-* #####freqBodyAccJerkMeanZ
- 8 Avarage value of the mean values of frequency body acceleration jerk signal by axe Z (unitless)
-* #####freqBodyGyroMeanX
- 8 Avarage value of the mean values of frequency body gyroscope signal by axe X (unitless)
-* #####freqBodyGyroMeanY
- 8 Avarage value of the mean values of frequency body gyroscope signal by axe Y (unitless)
-* #####freqBodyGyroMeanZ
- 8 Avarage value of the mean values of frequency body gyroscope signal by axe Z (unitless)
-* #####freqBodyAccMagMean
- 8 Avarage value of the mean values of frequency body acceleration magnitude signal (unitless)
-* #####freqBodyBodyAccJerkMagMean
- 8 Avarage value of the mean values of frequency body acceleration jerk magnitude signal (unitless)
-* #####freqBodyBodyGyroMagMean
- 8 Avarage value of the mean values of frequency body gyroscope magnitude signal (unitless)
-* #####freqBodyBodyGyroJerkMagMean
- 8 Avarage value of the mean values of frequency body gyroscope jerk magnitude signal (unitless)
+* **timeBodyAccStdDevZ** Avarage value of standard deviation of time body acceleration signal by axe  Z (unitless)
+* **timeGravityAccStdDevX**  
+Avarage value of standard deviation of time gravity acceleration signal by axe X (unitless)
+* **timeGravityAccStdDevY**  
+Avarage value of standard deviation of time gravity acceleration signal by axe Y (unitless)
+* **timeGravityAccStdDevZ**  
+Avarage value of standard deviation of time gravity acceleration signal by axe Z (unitless)
+* **timeBodyAccJerkStdDevX**  
+Avarage value of standard deviation of time body acceleration jerk signal by axe X (unitless)
+* **timeBodyAccJerkStdDevY**  
+Avarage value of standard deviation of time body acceleration jerk signal by axe Y (unitless)
+* **timeBodyAccJerkStdDevZ**  
+Avarage value of standard deviation of time body acceleration jerk signal by axe Z (unitless)
+* **timeBodyGyroStdDevX**  
+Avarage value of standard deviation of time body gyroscope signal by axe X (unitless)
+* **timeBodyGyroStdDevY**  
+Avarage value of standard deviation of time body gyroscope signal by axe Y (unitless)
+* **timeBodyGyroStdDevZ**  
+Avarage value of standard deviation of time body gyroscope signal by axe Z (unitless)
+* **timeBodyGyroJerkStdDevX**  
+Avarage value of standard deviation of time body gyroscope jerk signal by axe X (unitless)
+* **timeBodyGyroJerkStdDevY**  
+Avarage value of standard deviation of time body gyroscope jerk signal by axe Y (unitless)
+* **timeBodyGyroJerkStdDevZ**  
+Avarage value of standard deviation of time body gyroscope jerk signal by axe Z (unitless)
+* **timeBodyAccMagStdDev**  
+Avarage value of standard deviation of time body acceleration magnitude signal (unitless)
+* **timeGravityAccMagStdDev**  
+Avarage value of standard deviation of time gravity acceleration magnitude signal (unitless)
+* **timeBodyAccJerkMagStdDev**  
+Avarage value of standard deviation of time body acceleration jerk magnitude signal (unitless)
+* **timeBodyGyroMagStdDev**  
+Avarage value of standard deviation of time body gyroscope magnitude signal (unitless)
+* **timeBodyGyroJerkMagStdDev**  
+Avarage value of standard deviation of time body gyroscope jerk magnitude signal (unitless)
+* **freqBodyAccStdDevX**  
+Avarage value of standard deviation of the frequency body accelerations signal by axe X (unitless)
+* **freqBodyAccStdDevY**  
+Avarage value of standard deviation of the frequency body acceleration signal by axe Y (unitless)
+* **freqBodyAccStdDevZ**  
+Avarage value of standard deviation of the frequency body acceleration signal by axe Z (unitless)
+* **freqBodyAccJerkStdDevX**  
+Avarage value of standard deviation of the frequency body acceleration jerk signal by axe X (unitless)
+* **freqBodyAccJerkStdDevY**  
+Avarage value of standard deviation of the frequency body acceleration jerk signal by axe Y (unitless)
+* **freqBodyAccJerkStdDevZ**  
+Avarage value of standard deviation of the frequency body acceleration jerk signal by axe Z (unitless)
+* **freqBodyGyroStdDevX**  
+Avarage value of standard deviation of the frequency body gyroscope signal by axe X (unitless)
+* **freqBodyGyroStdDevY**  
+Avarage value of standard deviation of the frequency body gyroscope signal by axe Y (unitless)
+* **freqBodyGyroStdDevZ**  
+Avarage value of standard deviation of the frequency body gyroscope signal by axe Z (unitless)
+* **freqBodyAccMagStdDev**  
+Avarage value of standard deviation of the frequency body acceleration magnitude signal (unitless)
+* **freqBodyBodyAccJerkMagStdDev**  
+Avarage value of standard deviation of the frequency body acceleration jerk magnitude signal (unitless)
+* **freqBodyBodyGyroMagStdDev**  
+Avarage value of standard deviation of the frequency body gyroscope magnitude signal (unitless)
+* **freqBodyBodyGyroJerkMagStdDev**  
+Avarage value of standard deviation of the frequency body gyroscope jerk magnitude signal (unitless)
+* **timeBodyAccMeanX**  
+Avarage value of the mean values of time body acceleration signal by axe X (unitless)
+* **timeBodyAccMeanY
+** Avarage value of the mean values of time body acceleration signal by axe Y (unitless)
+* **timeBodyAccMeanZ
+** Avarage value of the mean values of time body acceleration signal by axe Z (unitless)
+* **timeGravityAccMeanX
+** Avarage value of the mean values of time gravity acceleration signal by axe X (unitless)
+* **timeGravityAccMeanY
+** Avarage value of the mean values of time gravity acceleration signal by axe Y (unitless)
+* **timeGravityAccMeanZ
+** Avarage value of the mean values of time gravity acceleration signal by axe Z (unitless)
+* **timeBodyAccJerkMeanX
+** Avarage value of the mean values of time body acceleration jerk signal by axe X (unitless)
+* **timeBodyAccJerkMeanY
+** Avarage value of the mean values of time body acceleration jerk signal by axe Y (unitless)
+* **timeBodyAccJerkMeanZ
+** Avarage value of the mean values of time body acceleration jerk signal by axe Z (unitless)
+* **timeBodyGyroMeanX
+** Avarage value of the mean values of time body gyroscope signal by axe X (unitless)
+* **timeBodyGyroMeanY
+** Avarage value of the mean values of time body gyroscope signal by axe Y (unitless)
+* **timeBodyGyroMeanZ
+** Avarage value of the mean values of time body gyroscope signal by axe Z (unitless)
+* **timeBodyGyroJerkMeanX
+** Avarage value of the mean values of time body gyroscope jerk signal by axe X (unitless)
+* **timeBodyGyroJerkMeanY
+** Avarage value of the mean values of time body gyroscope jerk signal by axe Y (unitless)
+* **timeBodyGyroJerkMeanZ
+** Avarage value of the mean values of time body gyroscope jerk signal by axe Z (unitless)
+* **timeBodyAccMagMean
+** Avarage value of the mean values of time body acceleration magnitude signal (unitless)
+* **timeGravityAccMagMean
+** Avarage value of the mean values of time gravity acceleration magnitude signal (unitless)
+* **timeBodyAccJerkMagMean
+** Avarage value of the mean values of time body acceleration jerk signal (unitless)
+* **timeBodyGyroMagMean
+** Avarage value of the mean values of time body gyroscope magnitude signal (unitless)
+* **timeBodyGyroJerkMagMean
+** Avarage value of the mean values of time body gyroscope jerk magnitude signal (unitless)
+* **freqBodyAccMeanX
+** Avarage value of the mean values of frequency body acceleration signal by axe X (unitless)
+* **freqBodyAccMeanY
+** Avarage value of the mean values of frequency body acceleration signal by axe Y (unitless)
+* **freqBodyAccMeanZ
+** Avarage value of the mean values of frequency body acceleration signal by axe Z (unitless)
+* **freqBodyAccJerkMeanX
+** Avarage value of the mean values of frequency body acceleration jerk signal by axe X (unitless)
+* **freqBodyAccJerkMeanY
+** Avarage value of the mean values of frequency body acceleration jerk signal by axe Y (unitless)
+* **freqBodyAccJerkMeanZ
+** Avarage value of the mean values of frequency body acceleration jerk signal by axe Z (unitless)
+* **freqBodyGyroMeanX
+** Avarage value of the mean values of frequency body gyroscope signal by axe X (unitless)
+* **freqBodyGyroMeanY
+** Avarage value of the mean values of frequency body gyroscope signal by axe Y (unitless)
+* **freqBodyGyroMeanZ
+** Avarage value of the mean values of frequency body gyroscope signal by axe Z (unitless)
+* **freqBodyAccMagMean
+** Avarage value of the mean values of frequency body acceleration magnitude signal (unitless)
+* **freqBodyBodyAccJerkMagMean
+** Avarage value of the mean values of frequency body acceleration jerk magnitude signal (unitless)
+* **freqBodyBodyGyroMagMean
+** Avarage value of the mean values of frequency body gyroscope magnitude signal (unitless)
+* **freqBodyBodyGyroJerkMagMean
+** Avarage value of the mean values of frequency body gyroscope jerk magnitude signal (unitless)
