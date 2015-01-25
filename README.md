@@ -1,5 +1,5 @@
 ## What is in the repository  
-This repository contains R code to clean up raw data from the [Human Activity Recognition Using Smartphones Data Set ](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Using this code data will be subseted, cleaned  and transformed to tidy data format. Cleaned data supposed to be used for later analysis. 
+This repository contains R code to clean up raw data from the [Human Activity Recognition Using Smartphones Data Set ](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Using this code data will be subseted, cleaned  and transformed to tidy data format. Cleaned data supposed to be used for later analysis. This repository also contains code book which describes all the variables from resulting tidy dataset.
 
 ## How data clean up is performed  
 
@@ -10,6 +10,8 @@ Data clean up performed in several steps
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. (not sure i will perform this step on real world data cleanup, beacause raw dataset is small and can be fitted in the memory as is. )
+
+Resulting dataset will consist of 68 variable and 180 observations.
 
 ## Prerequirements to run the code
 This code requires existance of the folder with the raw data of the _Human Activity Recognition Using Smartphones Data Set_. Data should be downloaded from the url [raw data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and extracted to the working  directory with name _"UCI HAR Dataset"_
