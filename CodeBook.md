@@ -1,8 +1,8 @@
 # Data Dictionary - Tidy Human Activity Recognition Using Smartphones 
-* Subject 2  
+* #####Subject 2  
    Identifies person within a group of 30 volunteer  within an age bracket of 19-48 years
   
-* Activity 1 
+* #####Activity 1 
   Subject activity type  
     * 1 WALKING  
     * 2 WALKING_UPSTAIRS
@@ -13,7 +13,7 @@
 
 * #####timeBodyAccStdDevX  
 8 Avarage value of standard deviation of time body acceleration signal by axe X (unitless)
-* ##### timeBodyAccStdDevY
+* #####timeBodyAccStdDevY
 8 Avarage value of standard deviation of time body acceleration signal by axe  Y (unitless)
 * #####timeBodyAccStdDevZ
 8 Avarage value of standard deviation of time body acceleration signal by axe  Z (unitless)
